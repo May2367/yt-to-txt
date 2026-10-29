@@ -1,0 +1,22 @@
+transcripts/
+
+# Temporary audio and media files
+yt_audio_*/
+*.mp3
+*.m4a
+*.webm
+*.wav
+*.ogg
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
